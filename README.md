@@ -2,7 +2,7 @@
 
 ### Cybersecurity • Networking • Systems Administration
 
-I’m an Alfred State cybersecurity student who enjoys building practical labs, troubleshooting systems, and explaining technical solutions clearly.
+I’m an Alfred State cybersecurity student who enjoys building labs, troubleshooting systems, and helping create solutions.
 
 - **Education:** A.A.S. in Computer Information Systems (2025); B.T. in Cybersecurity expected December 2026, with a minor in Network Administration.
 - **Hands-on experience:** Windows and Linux labs, Proxmox virtualization, VLAN segmentation, OPNsense, Active Directory, and endpoint administration.
